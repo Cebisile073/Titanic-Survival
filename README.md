@@ -11,7 +11,7 @@ You can find the dataset on Kaggle [here](https://www.kaggle.com/c/titanic/data)
 
 ## Methodology
 
-Binary classification techniques are applied to build a predictive model. The Logistic Regression Algorithm is explored to find the best model for predicting passenger survival.
+Binary classification techniques are applied to build a predictive model. The Logistic Regression Algorithm is explored to predict passenger survival.
 
 ## Usage
 
@@ -30,14 +30,11 @@ python predict_survival.py
 
 ## Results
 
-The performance of each model is evaluated using metrics such as accuracy, precision, recall, and F1-score. The best-performing model is selected based on these metrics.
+The performance of the model is evaluated using metrics such as accuracy, precision, recall, and F1-score. The model yield 83% Accuracy.
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
